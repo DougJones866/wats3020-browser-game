@@ -259,7 +259,7 @@ class TicTacToe {
                 newTile.setAttribute('class', 'fas fa-question tile');
                 // TODO: Set the `data-x` attribute on the `newTile` element
                 // equal to `i`.
-                newTile.setAttribute('data-y', i);
+                newTile.setAttribute('data-x', i);
                 // TODO: Set the `data-y` attribute on the `newTile` element
                 // equal to `j`.
                 newTile.setAttribute('data-y', j);
